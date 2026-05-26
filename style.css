@@ -5,4 +5,5 @@ div img { width: 100%; border-radius: 12px; margin-bottom: 40px; }
 h1 { font-family: 'Lora', serif; font-size: 40px; color: #312e2c; margin-bottom: 24px; }
 p { color: #5f564d; line-height: 150%; margin-bottom: 32px; }
 .tempo { background-color: #fff7fb; padding: 28px; border-radius: 12px; margin-bottom: 32px; }
+.modo li::marker { color: #854632; font-weight: 700; }
 hr { border: 1px solid #e3ddd7; margin: 32px 0; }
